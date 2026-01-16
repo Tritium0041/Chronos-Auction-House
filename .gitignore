@@ -17,6 +17,7 @@ Thumbs.db
 *.out
 
 # Application specific files
+*.egg-info
 venv
 */venv
 node_modules

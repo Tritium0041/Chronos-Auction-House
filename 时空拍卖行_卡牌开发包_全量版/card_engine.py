@@ -23,9 +23,9 @@ class CardRenderer:
         
         # 颜色配置
         self.colors = {
-            "古代时代": HexColor("#7D5A50"), # 古铜色
-            "近代时代": HexColor("#405D72"), # 工业蓝
-            "未来时代": HexColor("#2D31FA"), # 科技蓝
+            "古代时代": HexColor("#ba5653"), # 古铜色
+            "近代时代": HexColor("#618f98"), # 工业蓝
+            "未来时代": HexColor("#011a4b"), # 科技蓝
             "function": HexColor("#508D4E"), # 功能绿
             "event": HexColor("#D89216"),    # 事件橙
             "header_bg": HexColor("#F5F5F5"),

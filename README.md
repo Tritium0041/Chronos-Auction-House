@@ -14,4 +14,6 @@
 
 目前这个游戏还处于很早期的阶段，如果你感兴趣的话，可以带上纸笔，下载git仓库中的规则书和生成好的pdf文件并打印裁剪来进行试玩。目前还没有做中心面板和资金指示物，这一块的内容暂时需要用纸笔记录了。如果你试玩后有任何想法或问题想反馈，非常欢迎建立一个issue来讨论！
 
+正在用Figma重绘卡牌：https://www.figma.com/design/MYBnkqJo1fwvvGqxONeOt7/Chronos_Auction_House-Cards?node-id=3429-869&t=hXl2PHTFnEiL9CfT-1
+
 我们欢迎第三方贡献者或者把这个原型进行改进或改编，参照CC BY-NC 4.0协议。
